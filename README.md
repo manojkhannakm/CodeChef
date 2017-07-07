@@ -1,4 +1,4 @@
-# CodeChef-Cpp
+# CodeChef Cpp
 
 My solutions for problems solved on [CodeChef](https://www.codechef.com).
 
